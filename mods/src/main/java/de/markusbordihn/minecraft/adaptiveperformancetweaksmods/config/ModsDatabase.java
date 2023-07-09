@@ -97,6 +97,7 @@ public class ModsDatabase {
     "rubidium-0.5.2a.jar",
     "screenscale-1.19-2.0.jar",
     "spyglass_improvements-1.2+mc1.19.x+forge.jar"
+    "seamless_loading_screen-1.19.2-4.0.2.jar"
   // @formatter:on
   );
 
